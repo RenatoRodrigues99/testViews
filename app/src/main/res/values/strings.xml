@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestViews</string>
+    <string name="title_activity_button_view">ButtonView</string>
+</resources>
